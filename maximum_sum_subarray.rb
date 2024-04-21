@@ -27,10 +27,6 @@ Constraints:
 
 1 <= nums.length <= 105
 -104 <= nums[i] <= 104
-
-so far only kadane's algorithm is well-defined for this - which will work if there is mix of positive and negative numbers.. 
-it won't work if it al all negative - the output should be the biggest number,. we can tweak in changes to accomodate that
-
     
 https://www.simplilearn.com/kadanes-algorithm-article
 =end
